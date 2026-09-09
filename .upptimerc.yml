@@ -22,3 +22,7 @@ status-website:
 
 # Upptime configuration options
 user-agent: UpptimeBot
+
+secrets:
+  - PRIVATE_API_URL
+  - PRIVATE_API_TOKEN
