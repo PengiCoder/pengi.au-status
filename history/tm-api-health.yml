@@ -1,7 +1,7 @@
 url: https://tm.pengi.au/health
-status: up
-code: 200
-responseTime: 103
-lastUpdated: 2026-09-12T00:59:36.700Z
+status: down
+code: 404
+responseTime: 93
+lastUpdated: 2026-09-12T05:03:19.391Z
 startTime: 2026-09-09T07:38:48.763Z
 generator: Upptime <https://github.com/upptime/upptime>
