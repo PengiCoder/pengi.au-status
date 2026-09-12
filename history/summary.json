@@ -40,17 +40,17 @@
     "url": "https://tm.pengi.au/health",
     "icon": "https://icons.duckduckgo.com/ip3/tm.pengi.au.ico",
     "slug": "tm-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 103,
-    "timeWeek": 236,
-    "timeMonth": 236,
-    "timeYear": 236,
+    "time": 212,
+    "timeDay": 98,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
     "dailyMinutesDown": {}
   }
 ]
